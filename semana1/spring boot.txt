@@ -1,0 +1,5 @@
+Spring Boot facilita la creación de aplicaciones independientes basadas en Spring y de nivel de producción que puedes "simplemente ejecutar".
+
+Tenemos una visión objetiva de la plataforma Spring y las bibliotecas de terceros para que puedas empezar sin complicaciones. La mayoría de las aplicaciones Spring Boot requieren una configuración mínima de Spring.
+
+https://spring.io/projects/spring-boot
